@@ -72,8 +72,8 @@
 </p>
 
 <p>
-    &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=0x04b030ba&show_icons=true&locale=en" alt="0x04b030ba" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x04b030ba&" alt="0x04b030ba" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x04b030ba&show_icons=true&locale=en" alt="0x04b030ba" width="400px"/>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0x04b030ba&" alt="0x04b030ba" width="400px"/>
 </p>
 <p align="left">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
