@@ -4,7 +4,7 @@
     <img src="https://komarev.com/ghpvc/?username=0x04b030ba&label=Profile%20views&color=0e75b6&style=flat" alt="0x04b030ba" />
 </p>
 - 📝 I occasionally write articles on <a href="https://0x04b030ba.hashnode.dev/" target="blank">0x04b030ba@hashnode.com</a><br>
-- ⚡ Fun fact I’ve been electrocuted. (Don’t ask)
+- ⚡ Fun fact I’ve been electrocuted. (Don’t ask how)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
