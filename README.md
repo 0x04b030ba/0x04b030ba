@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Madah</h1>
+<h1 align="center">Hi 👋, I'm Abbas</h1>
 <h3 align="center">A tech enthusiast from Pakistan</h3>
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=0x04b030ba&label=Profile%20views&color=0e75b6&style=flat" alt="0x04b030ba" />
